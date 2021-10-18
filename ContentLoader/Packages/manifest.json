@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.addressables": "1.18.13",
+    "com.unity.addressables": "1.19.9",
     "com.unity.assetbundlebrowser": "https://github.com/Unity-Technologies/AssetBundles-Browser.git",
     "com.unity.ide.rider": "3.0.7",
     "com.unity.ide.visualstudio": "2.0.11",
