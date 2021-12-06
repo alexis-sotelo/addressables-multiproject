@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: SampleTexture2DArray
+  m_Name: TextureGroup
   m_EditorClassIdentifier: 
-  m_GroupName: SampleTexture2DArray
+  m_GroupName: TextureGroup
   m_Data:
     m_SerializedData: []
   m_GUID: 652ecf51b4d538c46986772f0a610379
   m_SerializeEntries:
   - m_GUID: de5db486c909d56459bc37d3bedd4b42
-    m_Address: Sprites
+    m_Address: Textures
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
